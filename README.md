@@ -17,5 +17,3 @@ Explorar um dataset de vendas e gerar insights como:
 ## Resultados
 O script gera análises no terminal e um gráfico de faturamento por categoria.
 
-## Autor
-Rosana Schreiner Budant
